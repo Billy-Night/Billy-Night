@@ -8,9 +8,9 @@ I like to build things! Graduating from an engineering background, I have a crea
 
 ## GitHub Stats 🔥
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billy-Night)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billy-Night&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billy-Night&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billy-Night&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me! 📥
 
