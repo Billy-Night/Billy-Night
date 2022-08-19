@@ -6,7 +6,7 @@ I like to build things! Graduating from an engineering background, I have a crea
 * 💻 JS, HTML, CSS
 * ⚙️ Node.js, Express, MySQL
 
-## Github Stats
+## Github Stats 🔥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billy-Night)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,4 +14,4 @@ I like to build things! Graduating from an engineering background, I have a crea
 
 ## Connect with me! 📥
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Billy-Night)  [<img src='https://static-exp1.licdn.com/sc/h/9wzc6pgtn06j7dubaufd5wbwv' alt='linkedin' height='40'>](https://www.linkedin.com/in/billynightingale)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124010.png' alt='facebook' height='40'>](https://www.facebook.com/billy.nightingale.3)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/billy_nightingale)  [<img src='https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1660905726~hmac=f1492410e8ac5d2f4610d2fe10102cf0' alt='twitter' height='40'>](https://twitter.com/billymnighting1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Billy-Night)  [<img src='https://static-exp1.licdn.com/sc/h/9wzc6pgtn06j7dubaufd5wbwv' alt='linkedin' height='40'>](https://www.linkedin.com/in/billynightingale) [<img src='https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1660905726~hmac=f1492410e8ac5d2f4610d2fe10102cf0' alt='twitter' height='40'>](https://twitter.com/billymnighting1)  
