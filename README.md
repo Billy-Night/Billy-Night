@@ -6,6 +6,15 @@ I like to build things! Graduating from an engineering background, I have a crea
 * 💻 JS, HTML, CSS
 * ⚙️ Node.js, Express, MySQL
 
+## Projects
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 ## GitHub Stats 🔥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billy-Night&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
