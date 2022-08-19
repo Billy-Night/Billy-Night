@@ -13,7 +13,7 @@ I like to build things! Graduating from an engineering background, I have a crea
 </a>
 
 <a href="https://github.com/Billy-Night/weather-wise-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Billy-Night&repo=weather-wise-app&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Billy-Night&repo=weather_wise_app&theme=highcontrast" />
 </a>
 
 
