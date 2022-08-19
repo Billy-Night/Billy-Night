@@ -6,7 +6,7 @@ I like to build things! Graduating from an engineering background, I have a crea
 * 💻 JS, HTML, CSS
 * ⚙️ Node.js, Express, MySQL
 
-## Github Stats 🔥
+## GitHub Stats 🔥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billy-Night)](https://github.com/anuraghazra/github-readme-stats)
 
