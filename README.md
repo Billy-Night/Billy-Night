@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Billy Nightingale
 I like to build things! Graduating from an engineering background, I have a creative mindset for problem solving. With a strong focus on self-growth, I’m always curious to learn new skills and be involved in exciting projects. My goal is to combine my passion for technology with my desire to create.
 
-## Languages and Tools
+## Languages and Tools 📖
 * ⚛️ React 
 * 💻 JS, HTML, CSS
 * ⚙️ Node.js, Express, MySQL
 
-## Projects
+## Projects 🗂
 
 <a href="https://github.com/hoolby/Trowit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoolby&repo=Trowit&theme=highcontrast" />
