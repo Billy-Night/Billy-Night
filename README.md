@@ -7,10 +7,10 @@ I like to build things! Graduating from an engineering background, I have a crea
 * ⚙️ Node.js, Express, MySQL
 
 ## Projects 🗂
-
+<!-- 
 <a href="https://github.com/hoolby/Trowit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoolby&repo=Trowit&theme=highcontrast" />
-</a>
+</a> -->
 
 <a href="https://github.com/Billy-Night/world_surf_journal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Billy-Night&repo=world_surf_journal&theme=highcontrast" />
