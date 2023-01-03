@@ -31,6 +31,10 @@ I like to build things! Graduating from an engineering background, I have a crea
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billy-Night&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+## CodeWars
+
+[<img src='https://www.codewars.com/users/Cyber-surf/badges/large' alt='codewars' height='auto'>]
+
 ## Connect with me! 📥
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Billy-Night)  [<img src='https://static-exp1.licdn.com/sc/h/9wzc6pgtn06j7dubaufd5wbwv' alt='linkedin' height='40'>](https://www.linkedin.com/in/billynightingale) 
