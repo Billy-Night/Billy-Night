@@ -37,7 +37,9 @@ I like to build things! Graduating from an engineering background, I have a crea
 
 ## Connect with me! 📥
 
-![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Billy-Night)
+[![alt tect](image_url)](link_url)
+
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Billy-Night)
 
 <a src="https://github.com/Billy-Night"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
 
