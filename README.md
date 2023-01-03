@@ -37,22 +37,10 @@ I like to build things! Graduating from an engineering background, I have a crea
 
 ## Connect with me! 📥
 
-<!-- [![alt tect](image_url)](link_url) -->
-
-<!-- [![GitHub logo](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg | width=100 height=100)](https://github.com/Billy-Night) -->
-
 <a href="https://github.com/Billy-Night">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub Logo" width="40" height="40">
 </a>
 
 <a href="https://www.linkedin.com/in/billynightingale">
-  <img src="https://static-exp1.licdn.com/sc/h/9wzc6pgtn06j7dubaufd5wbwv" width="40" height="40">
+  <img src="https://static-exp1.licdn.com/sc/h/9wzc6pgtn06j7dubaufd5wbwv" alt="LinkeDin" width="40" height="40">
 </a>
-
-
-<!-- <a src="https://github.com/Billy-Night"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
-
-
-[<img src='https://static-exp1.licdn.com/sc/h/9wzc6pgtn06j7dubaufd5wbwv' alt='linkedin' height='40'>(https://www.linkedin.com/in/billynightingale)] -->
-
-<!-- [<img src='https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1660905726~hmac=f1492410e8ac5d2f4610d2fe10102cf0' alt='twitter' height='40'>](https://twitter.com/billymnighting1)   -->
