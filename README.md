@@ -39,11 +39,11 @@ I like to build things! Graduating from an engineering background, I have a crea
 
 [![alt tect](image_url)](link_url)
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg | width=40 height=40)](https://github.com/Billy-Night)
+[![GitHub logo]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg | width=40 height=40)]([https://github.com](https://github.com/Billy-Night))
 
-<a src="https://github.com/Billy-Night"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
+<!-- <a src="https://github.com/Billy-Night"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
 
 
-[<img src='https://static-exp1.licdn.com/sc/h/9wzc6pgtn06j7dubaufd5wbwv' alt='linkedin' height='40'>(https://www.linkedin.com/in/billynightingale)]
+[<img src='https://static-exp1.licdn.com/sc/h/9wzc6pgtn06j7dubaufd5wbwv' alt='linkedin' height='40'>(https://www.linkedin.com/in/billynightingale)] -->
 
 <!-- [<img src='https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1660905726~hmac=f1492410e8ac5d2f4610d2fe10102cf0' alt='twitter' height='40'>](https://twitter.com/billymnighting1)   -->
